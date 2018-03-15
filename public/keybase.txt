@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jemartti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://marttinen.ca
+  * I am jemartti (https://keybase.io/jemartti) on keybase.
+  * I have a public key ASDbPzFTyMqo3wN0p_2-FWSyePXA_7o3c7VSgsUnHseHSwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120db3f3153c8caa8df0374a7fdbe1564b278f5c0ffba3773b55282c5271ec7874b0a",
+      "host": "keybase.io",
+      "kid": "0120db3f3153c8caa8df0374a7fdbe1564b278f5c0ffba3773b55282c5271ec7874b0a",
+      "uid": "2d7011315e13688c3f555976b838ce19",
+      "username": "jemartti"
+    },
+    "merkle_root": {
+      "ctime": 1518196587,
+      "hash": "b1405fb3457d93c71fb0e9fd4559320906ada566d82de3efd60b0d7f7f8db9cdf520e25139d774efe03c36e6f089e07897846fd2e80aef527c5a7d77e426bf2d",
+      "hash_meta": "d6a90af1868aac47f6729f59751587cce81c8bd3b3de0c0a3f2e83e42608dba9",
+      "seqno": 2058923
+    },
+    "service": {
+      "hostname": "marttinen.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1518196598,
+  "expire_in": 504576000,
+  "prev": "a19ef6d2b64d61b6e6335ec61ea4893487fc1778426fd6c14534e8a6d6a64620",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2z8xU8jKqN8DdKf9vhVksnj1wP+6N3O1UoLFJx7Hh0sKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGIzZjMxNTNjOGNhYThkZjAzNzRhN2ZkYmUxNTY0YjI3OGY1YzBmZmJhMzc3M2I1NTI4MmM1MjcxZWM3ODc0YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGIzZjMxNTNjOGNhYThkZjAzNzRhN2ZkYmUxNTY0YjI3OGY1YzBmZmJhMzc3M2I1NTI4MmM1MjcxZWM3ODc0YjBhIiwidWlkIjoiMmQ3MDExMzE1ZTEzNjg4YzNmNTU1OTc2YjgzOGNlMTkiLCJ1c2VybmFtZSI6ImplbWFydHRpIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE4MTk2NTg3LCJoYXNoIjoiYjE0MDVmYjM0NTdkOTNjNzFmYjBlOWZkNDU1OTMyMDkwNmFkYTU2NmQ4MmRlM2VmZDYwYjBkN2Y3ZjhkYjljZGY1MjBlMjUxMzlkNzc0ZWZlMDNjMzZlNmYwODllMDc4OTc4NDZmZDJlODBhZWY1MjdjNWE3ZDc3ZTQyNmJmMmQiLCJoYXNoX21ldGEiOiJkNmE5MGFmMTg2OGFhYzQ3ZjY3MjlmNTk3NTE1ODdjY2U4MWM4YmQzYjNkZTBjMGEzZjJlODNlNDI2MDhkYmE5Iiwic2Vxbm8iOjIwNTg5MjN9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWFydHRpbmVuLmNhIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDAifSwiY3RpbWUiOjE1MTgxOTY1OTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYTE5ZWY2ZDJiNjRkNjFiNmU2MzM1ZWM2MWVhNDg5MzQ4N2ZjMTc3ODQyNmZkNmMxNDUzNGU4YTZkNmE2NDYyMCIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCQ9994pR9Bd2WJHxlyrZ3F6h6s0ET5n9Oz9povnxKWZIR36O2iLpZaeDY/22xoIhuGUGTE4fXEN2VdZX7/7Kgioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC+W26tDjuT1pTqIBQv/UdqxouNK04ubPzlugtwtDI/C6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jemartti
+
+==================================================================
